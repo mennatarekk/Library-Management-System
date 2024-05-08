@@ -1,0 +1,6 @@
+badr, badr, badr, badr, badr, badr, nBlocked, badr, badr,
+saif, saif, saif, saif, saif, saif, Blocked, saif, saif,
+R, qw, qw, qw, qw, qw, no, qw, qw,
+badr, badr, badr, badr, badr, badr, nBlocked, badr, badr,
+saif, saif, saif, saif, saif, saif, Blocked, saif, saif,
+R, qw, qw, qw, qw, qw, no, qw, qw,

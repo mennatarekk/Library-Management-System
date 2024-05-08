@@ -1,0 +1,4 @@
+L, mazen, hossam, 2100, email, 2100, no, 24, 010,
+L, mazen, mazen, mazen, mazen, mazen, notblocked, mazen, mazen,
+L, badr, badr, badr, badr, badr, notblocked, badr, badr,
+L, s, d, d, d, d, notblocked, d, d,

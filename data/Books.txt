@@ -1,0 +1,4 @@
+badrt, badra, badrid, Available,
+yassint, yassina, yassinid, Available,
+mazent, mazena, mazenid, Available,
+title, ahmeda, id, Rented,
